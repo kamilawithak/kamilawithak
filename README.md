@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭I’m exploring full-stack web apps, game development, and using my technical skills to support mission driven organizations<br><br>👯 I’m looking to collaborate on community focused applications<br><br>🌱 I’m currently learning Java, C#, and AWS<br><br>💬 Ask me about web development, building tech to create lasting impact, or programming challenges<br><br>⚡ Fun fact: I have logged over 200 volunteer hours while doing CS projects!
+# 🌸 About Me:
+🔭 I’m exploring full-stack web apps, game development, and using my technical skills to support mission driven organizations<br><br>👯 I’m looking to collaborate on community focused applications<br><br>🌱 I’m currently learning Java, C#, and AWS<br><br>💬 Ask me about web development, building tech to create lasting impact, or programming challenges<br><br>⚡ Fun fact: I have logged over 200 volunteer hours while doing CS projects!
 
 
 
