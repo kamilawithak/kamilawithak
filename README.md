@@ -1,17 +1,20 @@
-# 🌸 About Me:
-🔭 I’m exploring full-stack web apps, game development, and using my technical skills to support mission driven organizations<br><br>👯 I’m looking to collaborate on community focused applications<br><br>🌱 I’m currently learning Java, C#, and AWS<br><br>💬 Ask me about web development, building tech to create lasting impact, or programming challenges<br><br>⚡ Fun fact: I have logged over 200 volunteer hours while doing CS projects!
+# Kamila Nieto
+**B.S. Computer Science & Engineering | The Ohio State University**
+*Assistive Technology & Medical Machine Learning*
 
+I am a software engineer and undergraduate researcher specializing in the intersection of healthcare, digital accessibility, and data engineering. My work focuses on building low-latency AI pipelines, analyzing regulatory medical device data, and developing inclusive applications for vulnerable populations. 
 
+### Current Work & Research
+* **Clinical Data Engineering:** Developing an ETL pipeline and NLP classification model (Python, SQL, DuckDB, spaCy) to analyze ~3,000 unstructured FDA medical device reports for the Adverse Wheelchair Events Registry (AWARE). 
+* **Assistive Mobile Development:** Building a native Android application (Kotlin, Firebase) with local on-device computation to track daily wheelchair travel distances via GPS.
+* **Accessibility Engineering:** Designing tools to eliminate digital and physical barriers, including a real-time meeting accessibility overlay (speech-to-text API & LLM integration).
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+### Technical Capabilities
+* **Languages:** Python (PCEP Certified), Java, C# (Microsoft Certified), SQL, TypeScript, JavaScript
+* **Data & AI:** Pandas, DuckDB, spaCy, Natural Language Processing (NLP)
+* **Frameworks & Mobile:** React, React Native, Kotlin, Android Studio
+* **Cloud & DevOps:** AWS (Cloud Foundations Certified), Supabase, Firebase, Docker, Git, CI/CD
+* **Accessibility:** Axe DevTools, WAVE, WCAG 2.1/2.2 (AA & AAA) compliance
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kamila-nieto) 
-
----
-[![](https://visitcount.itsvg.in/api?id=kamilawithak&icon=3&color=5)](https://visitcount.itsvg.in)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamila-nieto)
